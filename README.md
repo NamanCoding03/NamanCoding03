@@ -12,7 +12,7 @@
      
 - I will be uploading various respositories in the upcoming days which will showcase my talent. And hopefully help someone learn from them(Sharing is caring).
 
-- I have uploaded DSA - Data Structure and Algorithm Repository where I will be uploading 2 codes on a daily basis. Currently, I am uploading the basic codes. Moving further, I will be uploading codes based on different structures such as List, Stacks, Queues, Trees, Strings, Recursion etc.
+- I have uploaded DSA - Data Structure and Algorithm Repository where I will be uploading 2 codes on a daily basis. Currently, I am uploading the basic codes. Moving further, I will be uploading codes based on different structures such as List, Stacks, Queues, Trees, Strings, Recursion etc. Link to Python repo is https://github.com/NamanCoding03/Python. 
 
 - I am compiling my machine learning playlist so that I can upload it shortly.
 
